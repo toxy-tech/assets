@@ -1,8 +1,8 @@
 # Laravel Assets management
 
-[![Latest Version](https://img.shields.io/github/release/toxy-tech/laravel-assets.svg?style=flat-square)](https://github.com/toxy-tech/laravel-assets/releases)
+[![Latest Version](https://img.shields.io/github/release/toxy-tech/assets.svg?style=flat-square)](https://github.com/toxy-tech/laravel-assets/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![Quality Score](https://img.shields.io/scrutinizer/g/toxy-tech/laravel-assets.svg?style=flat-square)](https://scrutinizer-ci.com/g/toxy-tech/laravel-assets)
+[![Quality Score](https://img.shields.io/scrutinizer/g/toxy-tech/assets.svg?style=flat-square)](https://scrutinizer-ci.com/g/toxy-tech/laravel-assets)
 [![Total Downloads](https://img.shields.io/packagist/dt/toxy-tech/assets.svg?style=flat-square)](https://packagist.org/packages/toxy-tech/assets)
 
 ## Installation
