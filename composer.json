@@ -1,5 +1,5 @@
 {
-    "name": "toxyTech/assets",
+    "name": "toxy-tech/assets",
     "description": "Laravel assets management",
     "license": "MIT",
     "keywords": [
@@ -8,11 +8,11 @@
         "toxyTech platform",
         "toxyTech assets"
     ],
-    "homepage": "https://toxyTech.com",
+    "homepage": "https://toxytech.com",
     "authors": [
         {
-            "name": "Sang Nguyen",
-            "email": "sangnguyenplus@gmail.com"
+            "name": "Adham Elsharkawy",
+            "email": "adhamshrqawy@icloud.com"
         }
     ],
     "require": {
