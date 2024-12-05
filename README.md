@@ -127,10 +127,5 @@ Then assets will be loaded from CDN if it's defined in config file.
 ASSETS_ENABLE_VERSION=false
 ```
 
-## Contributors
-
-- [Sang Nguyen](https://github.com/sangnguyenplus)
-- [Dinh Quoc Han](https://github.com/dinhquochan)
-
 ## License
-[MIT](LICENSE) © Sang Nguyen
+[MIT](LICENSE) © Adham Elsharkawy
