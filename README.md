@@ -1,11 +1,9 @@
 # Laravel Assets management
 
-[![Latest Version](https://img.shields.io/github/release/toxyTech/laravel-assets.svg?style=flat-square)](https://github.com/toxyTech/laravel-assets/releases)
+[![Latest Version](https://img.shields.io/github/release/toxy-tech/laravel-assets.svg?style=flat-square)](https://github.com/toxy-tech/laravel-assets/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![Quality Score](https://img.shields.io/scrutinizer/g/toxyTech/laravel-assets.svg?style=flat-square)](https://scrutinizer-ci.com/g/toxyTech/laravel-assets)
-[![StyleCI](https://styleci.io/repos/154250020/shield)](https://styleci.io/repos/154250020)
-[![Total Downloads](https://img.shields.io/packagist/dt/toxyTech/assets.svg?style=flat-square)](https://packagist.org/packages/toxyTech/assets)
-[![Maintainability](https://api.codeclimate.com/v1/badges/a6e4612307e3b3bf8252/maintainability)](https://codeclimate.com/github/toxyTech/laravel-assets/maintainability)
+[![Quality Score](https://img.shields.io/scrutinizer/g/toxy-tech/laravel-assets.svg?style=flat-square)](https://scrutinizer-ci.com/g/toxy-tech/laravel-assets)
+[![Total Downloads](https://img.shields.io/packagist/dt/toxy-tech/assets.svg?style=flat-square)](https://packagist.org/packages/toxy-tech/assets)
 
 ## Installation
 
